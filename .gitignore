@@ -9,3 +9,16 @@ out
 gen
 /eurekaclient/target/classes/
 /eurekaclient/eurekaclient.iml
+cloud_config/src/test/
+cloud_config/target/generated-sources/
+eurekaclient/src/test/
+eurekaclient/target/generated-sources/
+eurekaclient2/src/test/
+eurekaclient2/target/generated-sources/
+eurekaserver/src/test/
+eurekaserver/target/generated-sources/
+feign/target/generated-sources/
+feign/target/generated-test-sources/
+gateway/src/test/
+gateway/target/generated-sources/
+src/
